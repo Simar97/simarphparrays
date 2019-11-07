@@ -1,0 +1,16 @@
+<?php
+$array = {
+        "foo" => "bar",
+        "bar" => "foo",
+        };
+        ?>
+        
+        <?php
+        $array = array{
+        1= > "a",
+        "1" => "b",
+        1.5 => "d",
+        true => "d",
+        );
+        var_dump($array);
+        ?>
